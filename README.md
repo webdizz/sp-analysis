@@ -3,7 +3,7 @@ Stored Procedures Analysis with NetworkX and Plotly
 
 # How to run
 
-```jupyter notebook````
+```jupyter notebook```
 
 # Reports 
 
